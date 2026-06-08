@@ -1,1 +1,1 @@
-# Ejercicios-Bootstrap-y-React
+# ejercicios-react-bootstrap
